@@ -37,6 +37,8 @@ This Repo will contain 365 Algorithmic and Data Structure related problems!
 | ------ | ---------- | --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | ------------ |
 | 1      | Recursion      | [Subsets](https://leetcode.com/problems/subsets)                                                        | [🔥takeUForward]()                                                 | [💻](https://github.com/kotharismeet-3/Algo365/blob/main/subsets.java)                       | [Upcoming]() |
 | 2      | Recursion      | [Subsets II](https://leetcode.com/problems/subsets-ii)                                                        | [🔥takeUForward]()                                                 | [💻](https://github.com/kotharismeet-3/Algo365/blob/main/subsetsII.java)                       | [Upcoming]() |
+| 3      | Recursion      | [Prermutations]()                                                        | [🔥takeUForward]()                                                 | [💻](https://github.com/kotharismeet-3/Algo365/blob/main/permutations.java)                       | [Upcoming]() |
+| 4      | Recursion      | [Prermutations II]()                                                        | [🔥takeUForward]()                                                 | [💻](https://github.com/kotharismeet-3/Algo365/blob/main/[].java)                       | [Upcoming]() |
 
 ## Tree
 ### Tree Traversal
