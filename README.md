@@ -41,6 +41,11 @@ This Repo will contain 365 Algorithmic and Data Structure related problems!
 | 4      | Recursion      | [Prermutations II]()                                                        | [🔥takeUForward]()                                                 | [💻](https://github.com/kotharismeet-3/Algo365/blob/main/permutationsII.java)                       | [Upcoming]() |
 | 5      | Recursion      | [Combination sum](https://leetcode.com/problems/combination-sum)                                                        | [🔥takeUForward]()                                                 | [💻](https://github.com/kotharismeet-3/Algo365/blob/main/Combination_sum.java)                       | [Upcoming]() |
 | 6      | Recursion      | [Combination sum II](https://leetcode.com/problems/combination-sum-ii)                                                        | [🔥takeUForward]()                                                 | [💻](https://github.com/kotharismeet-3/Algo365/blob/main/Combination_sumII.java)                       | [Upcoming]() |
+| 7     | Recursion      | [N Queens]()                                                        | [🔥takeUForward]()                                                 | [💻]()                       | [Upcoming]() |
+| 8     | Recursion      | [Soduko solver]()                                                        | [🔥takeUForward]()                                                 | [💻]()                       | [Upcoming]() |
+| 9     | Recursion      | [M Coloring]()                                                        | [🔥takeUForward]()                                                 | [💻]()                       | [Upcoming]() |
+| 10    | Recursion      | [Word Search]()                                                        | [🔥]()                                                 | [💻]()                       | [Upcoming]() |
+| 11     | Recursion      | [Knights - CSES]()                                                        | [🔥]()                                                 | [💻]()                       | [Upcoming]() |
 
 ## Tree
 ### Tree Traversal
